@@ -5,9 +5,9 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>eskillsgame</name>
-		<gap:platform name="android" />
+		<eimears eskills memory game>
+		<description>this eskills game was developed by eimear for ITGirls 2014!</description>
+		<gap:platforn name="android" />
 		<gap:platform name="ios" />
-		<preference name="orientation" value="portrait" />
-		<preference name="fullscreen" value="true" />
 		<icon src="icon.png" />
 </widget>
